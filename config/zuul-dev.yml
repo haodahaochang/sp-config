@@ -37,4 +37,8 @@ management:
   endpoints:
     web:
       exposure:
+<<<<<<< HEAD
         include: hystrix.stream
+=======
+        include: hystrix.stream
+>>>>>>> branch 'master' of https://github.com/haodahaochang/sp-config.git
